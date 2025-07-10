@@ -10,7 +10,7 @@
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/papunm) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gotenseijuro) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gohanmohapatra@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4285F4?logo=gmail&logoColor=white)](mailto:gohanmohapatra@gmail.com)
 
 ---
 
@@ -23,11 +23,11 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0070F3?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🛠️ Backend & APIs
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-JavaEE-%23ED8B00?style=for-the-badge&logo=java)
@@ -50,34 +50,42 @@
 ### 🔗 Tooling & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23007ACC.svg?style=for-the-badge)
-![Turborepo](https://img.shields.io/badge/Turborepo-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-0070F3?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Papun1111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Papun1111&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Papun1111&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Papun1111&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Papun1111&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Papun1111&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Papun1111&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Papun1111&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## ✍️ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Papun1111&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Papun1111&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Papun1111&icon=3&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  
+### 🌊 Profile Views
+![](https://komarev.com/ghpvc/?username=Papun1111&color=blueviolet&style=flat-square)
+
+### 💙 Thanks for visiting!
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
