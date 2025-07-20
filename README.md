@@ -1,7 +1,7 @@
-<!-- GitHub Profile README - Papun Mohapatra (Red Gradient Theme) -->
+<!-- GitHub Profile README - Papun Mohapatra (Red Gradient Extended Theme) -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E17055&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Papun+Mohapatra!;Full-Stack+Developer+%F0%9F%9A%80;Blockchain+%2B+DevOps+Explorer;Always+Building+Cool+Stuff+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E17055&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Papun+Mohapatra!;Full-Stack+Developer+%F0%9F%9A%80;Spring+%2B+React+%2B+Next.js+Fanatic;Always+Building+Cool+Stuff+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 ---
@@ -35,18 +35,31 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F9CA24?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FDCB6E?style=for-the-badge&logo=typescript&logoColor=black)
 
-### 🔴 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E17055?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-FF7675?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-FF6B6B?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
+
+### 🔴 React & Next.js Ecosystem
 ![React](https://img.shields.io/badge/React-F06C64?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-FF3E4D?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-E74C3C?style=for-the-badge&logo=redux)
+![React Query](https://img.shields.io/badge/ReactQuery-D63031?style=for-the-badge&logo=react-query)
+![React Hook Form](https://img.shields.io/badge/ReactHookForm-C0392B?style=for-the-badge&logo=reacthookform)
+![Zod](https://img.shields.io/badge/Zod-B71540?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-E17055?style=for-the-badge)
+![NextAuth](https://img.shields.io/badge/NextAuth-FF7675?style=for-the-badge&logo=auth0)
+![Vercel](https://img.shields.io/badge/Vercel-F06C64?style=for-the-badge&logo=vercel)
+![TanStack Table](https://img.shields.io/badge/TanStack--Table-E84393?style=for-the-badge)
 
-### 🔴 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-E84393?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-2D3436?style=for-the-badge&logo=express&logoColor=white)
+---
+
+### 🔴 Spring & Java Backend
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-EB4D4B?style=for-the-badge&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-D63031?style=for-the-badge)
+![Spring MVC](https://img.shields.io/badge/SpringMVC-FF6B6B?style=for-the-badge)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-E17055?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-D35400?style=for-the-badge)
+![Spring Cloud](https://img.shields.io/badge/SpringCloud-E74C3C?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-C0392B?style=for-the-badge)
+
+---
 
 ### 🔴 Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-A93226?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -56,10 +69,14 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-B71540?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-D35400?style=for-the-badge&logo=java)
 
-### 🔴 Data Science & ML
+---
+
+### 🔴 ML & Data Science
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-C2185B?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-E74C3C?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
 
 ### 🔴 DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-F39C12?style=for-the-badge&logo=amazon-aws&logoColor=white)
