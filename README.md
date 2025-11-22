@@ -1,147 +1,244 @@
-<!-- GitHub Profile README - Papun Mohapatra (Bluish-Cyan Gradient Theme) -->
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BCD4&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Papun+Mohapatra!;Full-Stack+Developer+%F0%9F%9A%80;Spring+%2B+React+%2B+Next.js+Fanatic;Always+Building+Cool+Stuff+%F0%9F%92%BB" alt="Typing SVG" />
+
+<!-- Animated Header with Purple Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=200&section=header&text=PAPUN%20MOHAPATRA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Digital%20Architect%20•%20Code%20Craftsman&descAlignY=55&descAlign=50" />
+
 </div>
 
----
+<!-- Glowing Purple Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💫 About Me
-- 👨‍💻 I'm **Papun Mohapatra**
-- 🌍 A passionate **Full-Stack Developer** from India
-- 🔗 Exploring the magic between **Web, DevOps, ML & Blockchain**
-- 💬 Let's talk: **MERN**, **Next.js**, **Spring Boot**, **Microservices**, **Web3**
-- 📈 Currently learning **Kubernetes**, **gRPC**, **Solidity**, and **CI/CD Pipelines**
+<div align="center">
 
----
+### 🌌 *Bridging the Gap Between Design & Logic*
 
-## 🔗 Connect with Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Engineer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;DevOps+Enthusiast+%F0%9F%90%B3;Blockchain+Developer+%E2%9B%93;Basketball+%26+Code+%F0%9F%8F%80)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://linkedin.com/in/papunm"><img src="https://img.shields.io/badge/LinkedIn-00BCD4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/gotenseijuro"><img src="https://img.shields.io/badge/X-00ACC1?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:gohanmohapatra@gmail.com"><img src="https://img.shields.io/badge/Email-26C6DA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<!-- Animated Snake eating contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Papun1111/Papun1111/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<!-- About Section with Purple Cards -->
+<div align="center">
+
+## 🎭 **ABOUT ME**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+```typescript
+const papun = {
+    location: "Bhubaneswar, India 🇮🇳",
+    education: "Engineering @ ITER",
+    role: "Full-Stack Developer",
+    expertise: ["MERN Stack", "Spring Boot", "DevOps", "Blockchain"],
+    currentlyLearning: ["Kubernetes", "gRPC", "Solidity", "Microservices"],
+    hobbies: ["Basketball 🏀", "Building Cool Stuff 💻", "Open Source 🌟"],
+    lifePhilosophy: "Code is poetry written in logic"
+};
+```
+
+<br/>
+
+<!-- Tech Stack with Beautiful Layout -->
+<div align="center">
+
+## 🛠️ **TECH ARSENAL**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
+### 👨‍💻 Languages & Core
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=7c3aed"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=a855f7"/>
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=9333ea"/>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=7c3aed"/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white&color=a855f7"/>
 </p>
 
----
+### ⚛️ Frontend Magic
 
-## 🧠 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=7c3aed"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&color=a855f7"/>
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=9333ea"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue&color=7c3aed"/>
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=a855f7"/>
+<img src="https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=trpc&logoColor=white&color=9333ea"/>
+</p>
 
-### 🔷 Programming Languages
-![Python](https://img.shields.io/badge/Python-00ACC1?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-0097A7?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00BCD4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4DD0E1?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-80DEEA?style=for-the-badge&logo=typescript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-1DE9B6?style=for-the-badge&logo=solidity&logoColor=black)
+### ⚙️ Backend & Microservices
 
----
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=7c3aed"/>
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&color=a855f7"/>
+<img src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white&color=9333ea"/>
+<img src="https://img.shields.io/badge/Microservices-%2300f.svg?style=for-the-badge&logo=protonmail&logoColor=white&color=7c3aed"/>
+<img src="https://img.shields.io/badge/gRPC-%2300ADD8.svg?style=for-the-badge&logo=google&logoColor=white&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&color=a855f7"/>
+</p>
 
-### 🔷 React & Next.js Ecosystem
-![React](https://img.shields.io/badge/React-00BCD4?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-00ACC1?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-26C6DA?style=for-the-badge&logo=redux)
-![React Query](https://img.shields.io/badge/ReactQuery-00B8D4?style=for-the-badge&logo=react-query)
-![React Hook Form](https://img.shields.io/badge/ReactHookForm-00ACC1?style=for-the-badge&logo=reacthookform)
-![Zod](https://img.shields.io/badge/Zod-00BCD4?style=for-the-badge)
-![Zustand](https://img.shields.io/badge/Zustand-26C6DA?style=for-the-badge)
-![NextAuth](https://img.shields.io/badge/NextAuth-80DEEA?style=for-the-badge&logo=auth0)
-![Vercel](https://img.shields.io/badge/Vercel-00BCD4?style=for-the-badge&logo=vercel)
-![TanStack Table](https://img.shields.io/badge/TanStack--Table-00ACC1?style=for-the-badge)
-![tRPC](https://img.shields.io/badge/tRPC-26C6DA?style=for-the-badge&logo=trpc)
+### 🗄️ Databases & ORMs
 
----
+<p>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=7c3aed"/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=a855f7"/>
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&color=9333ea"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&color=7c3aed"/>
+<img src="https://img.shields.io/badge/Hibernate-%23404d59.svg?style=for-the-badge&logo=hibernate&logoColor=white&color=8b5cf6"/>
+</p>
 
-### 🔷 Spring & Java Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-00ACC1?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/SpringMVC-00BCD4?style=for-the-badge)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-26C6DA?style=for-the-badge)
-![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-4DD0E1?style=for-the-badge)
-![Spring Cloud](https://img.shields.io/badge/SpringCloud-00B8D4?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-1DE9B6?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-00BCD4?style=for-the-badge&logo=grpc&logoColor=white)
+### ☁️ DevOps & Cloud
 
----
+<p>
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=7c3aed"/>
+<img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&color=a855f7"/>
+<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white&color=9333ea"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=7c3aed"/>
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&color=a855f7"/>
+</p>
 
-### 🔷 Databases & ORMs
-![MongoDB](https://img.shields.io/badge/MongoDB-0097A7?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00BCD4?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-26C6DA?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-00ACC1?style=for-the-badge&logo=prisma&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-4DD0E1?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-80DEEA?style=for-the-badge&logo=java)
+### ⛓️ Blockchain & Web3
 
----
+<p>
+<img src="https://img.shields.io/badge/Ethereum-%23363636.svg?style=for-the-badge&logo=ethereum&logoColor=white&color=7c3aed"/>
+<img src="https://img.shields.io/badge/Solana-%2314F195.svg?style=for-the-badge&logo=solana&logoColor=white&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Web3.js-%23F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white&color=a855f7"/>
+<img src="https://img.shields.io/badge/Smart%20Contracts-%23363636.svg?style=for-the-badge&logo=ethereum&logoColor=white&color=9333ea"/>
+</p>
 
-### 🔷 ML & Data Science
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00ACC1?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00BCD4?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-26C6DA?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🤖 ML & Data Science
 
----
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=7c3aed"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&color=a855f7"/>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=9333ea"/>
+</p>
 
-### 🔷 DevOps, Containers & Tools
-![Docker](https://img.shields.io/badge/Docker-00ACC1?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-00BCD4?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-4DD0E1?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-26C6DA?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00ACC1?style=for-the-badge&logo=render&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-00B8D4?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0097A7?style=for-the-badge&logo=git&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-00BCD4?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
 
----
+<br/>
 
-### 🔷 Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-1DE9B6?style=for-the-badge&logo=solidity&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-00ACC1?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-00BCD4?style=for-the-badge&logo=solana&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-4DD0E1?style=for-the-badge&logo=web3dotjs&logoColor=white)
+<!-- GitHub Stats with Purple Theme -->
+<div align="center">
 
----
+## 📊 **GITHUB ANALYTICS**
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Papun1111&theme=react&hide_border=false&show_icons=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Papun1111&theme=react&hide_border=false" height="170" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Papun1111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Papun1111&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=8b5cf6&currStreakLabel=a855f7"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papun1111&layout=compact&theme=react&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papun1111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8"/>
 </p>
 
----
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Papun1111&custom_title=Contribution%20Graph&bg_color=0d1117&color=a855f7&line=8b5cf6&point=7c3aed&area_color=8b5cf6&area=true&hide_border=true" width="100%"/>
 
-## 🏆 GitHub Trophies
+</div>
+
+<br/>
+
+<!-- Trophy Section -->
+<div align="center">
+
+## 🏆 **ACHIEVEMENTS**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Papun1111&theme=flat&margin-w=10&no-frame=false&title_color=00BCD4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Papun1111&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9" />
 </p>
 
----
+</div>
 
-## ✍️ Dev Quote of the Day
+<br/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
+<!-- Connect Section with Beautiful Cards -->
+<div align="center">
+
+## 🌐 **LET'S CONNECT**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<p>
+<a href="https://linkedin.com/in/papunm">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=7c3aed" />
+</a>
+<a href="https://x.com/gotenseijuro">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=8b5cf6" />
+</a>
+<a href="mailto:gohanmohapatra@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=a855f7" />
+</a>
+<a href="https://github.com/Papun1111">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=9333ea" />
+</a>
 </p>
 
----
+</div>
 
-## 🔝 Top Contributed Repos
+<br/>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Papun1111&limit=5&theme=react&combine_all_yearly_contributions=true" />
-</p>
+<!-- Quote Section -->
+<div align="center">
 
----
+## 💭 **DEV WISDOM**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Papun1111&style=flat-square&color=00BCD4" alt="Profile Views" />
-  <br />
-  💙 *Thanks for visiting!*  
-  💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_color=a855f7" />
 
-<!-- Created with 💙 by Papun | Styled with 🔷 Bluish-Cyan Gradient -->
+</div>
+
+<br/>
+
+<!-- Support Section -->
+<div align="center">
+
+## ☕ **SUPPORT MY WORK**
+
+<p>If you find my projects helpful, consider buying me a coffee!</p>
+
+<a href="https://www.buymeacoffee.com/papun">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=papun&button_colour=a855f7&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- Visitor Counter -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Papun1111&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+### ⭐ *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+
+**Made with 💜 by Papun Mohapatra**
+
+</div>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=120&section=footer"/>
