@@ -213,9 +213,6 @@ const papun = {
 
 <p>If you find my projects helpful, consider buying me a coffee!</p>
 
-<a href="https://www.buymeacoffee.com/papun">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=papun&button_colour=a855f7&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" />
-</a>
 
 </div>
 
