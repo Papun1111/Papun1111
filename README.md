@@ -16,10 +16,6 @@
 
 </div>
 
-<!-- Animated Snake eating contributions -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Papun1111/Papun1111/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <br/>
 
